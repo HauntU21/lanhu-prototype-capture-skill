@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lanhu Prototype Capture"
+  short_description: "Capture full Lanhu canvases with AI-readable tiles and text"
+  default_prompt: "Use $lanhu-prototype-capture to turn this Lanhu prototype link into a complete native-scale canvas, overlapping detail tiles, and aligned text."
